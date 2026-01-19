@@ -138,6 +138,5 @@ The project also highlights the importance of **preprocessing, feature encoding,
 - Practiced **error analysis and interpretation of predictive models**
 - Built **modular and scalable code**, laying the foundation for more advanced machine learning projects
 
-This project serves as a strong demonstration of **analytical thinking, problem-solving, and applied AI skills**, making it highly relevant for research-oriented internships such as **MBZUAI UGRIP**.
 
 
